@@ -2,8 +2,8 @@
 Modern Angular Certification from Udemy
 
 # Basic Deployment of Angular Apps
-
-``` now.sh(paste on browser) --> free CLI-based deployments. Automatically figures out how to build your app.
+```
+now.sh(paste on browser) --> free CLI-based deployments. Automatically figures out how to build your app.
 
 STEP 1: first globally install now using the below command
 ## npm install -g now
