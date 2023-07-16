@@ -15,3 +15,7 @@ Once you verify, you will get the message on terminal as "Congratulations! You a
 
 STEP 3: In order to deploy your application, run `now`.
 ## now
+
+# Deployed Link of Password Generator(pw) App
+```
+https://pw-faizankhancse1-gmailcom.vercel.app
