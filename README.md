@@ -6,7 +6,7 @@ Modern Angular Certification from Udemy
 now.sh --> free CLI-based deployments. Automatically figures out how to build your app.
 
 STEP 1: first globally install now using the below command
-# npm install -g now
+## npm install -g now
 
 STEP 2: then login to now
 # now login
